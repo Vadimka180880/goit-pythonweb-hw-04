@@ -1,0 +1,13 @@
+source_folder/
+output_folder/
+test_data/
+
+*.log
+
+venv/
+.env/
+
+.vscode/
+.idea/
+__pycache__/
+*.pyc
